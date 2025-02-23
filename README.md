@@ -8,6 +8,9 @@
 ### 🚀 Who am I?  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F75C7E&width=435&lines=Web+Developer;UI%2FUX+Designer;ML+Enthusiast;Always+learning!)](https://git.io/typing-svg)
 
+### ⏳ Countdown Timer  
+⏳ **Countdown to my next project launch:**  
+![Countdown](https://countdown-to-march.vercel.app/api?day=01&month=06&year=2025&theme=dark)
 
 
 ### 🚀 **Tech Stack**
