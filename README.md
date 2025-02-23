@@ -5,7 +5,7 @@
 📫 Connect with me: [LinkedIn](www.linkedin.com/in/gauri-patil-196009263)  
 
 ---
-![GitHub Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=light)
+![GitHub Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=codeted0&theme=dark)
 
 
 ### 🚀 **Tech Stack**
