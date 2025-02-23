@@ -1,12 +1,18 @@
-### 👋 Hello, I'm Gauri Patil!  
+###                 👋 Hello, I'm Gauri Patil!  
+---
 💻 Web Developer | 🎨 UI/UX Designer | 🚀 Tech Enthusiast  
 
+---
+
 🌱 I’m currently learning **AI/ML & Web Development**  
+
 📫 Connect with me: [LinkedIn](www.linkedin.com/in/gauri-patil-196009263)  
 
 ---
 ### 🚀 Who am I?  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F75C7E&width=435&lines=Web+Developer;UI%2FUX+Designer;ML+Enthusiast;Always+learning!)](https://git.io/typing-svg)
+
+---
 
 ### 🚀 **Tech Stack**
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
