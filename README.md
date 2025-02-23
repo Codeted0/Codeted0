@@ -23,8 +23,18 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+### 📊 GitHub Stats  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=codeted0&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codeted0&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codeted0&layout=compact&theme=radical)
+
 
 ---
 
-### ✨ **Fun Fact**
-💡 "There are 10 types of people in the world. Those who understand binary and those who don’t!" 😆
+![Made with Love](https://img.shields.io/badge/Made%20with%20❤️%20for%20coding-blueviolet)  
+![Always Learning](https://img.shields.io/badge/Always-Learning-orange)  
+![Code Sleep Repeat](https://img.shields.io/badge/Code-Sleep-Repeat-success)
+
+
+### 😂 Random Developer Joke  
+![Jokes Card](https://readme-jokes.vercel.app/api)
