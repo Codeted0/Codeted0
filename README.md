@@ -5,8 +5,8 @@
 📫 Connect with me: [LinkedIn](www.linkedin.com/in/gauri-patil-196009263)  
 
 ---
-### 🐍 Contribution Snake  
-![Snake animation](https://github.com/codeted0/codeted0/blob/output/github-contribution-grid-snake.svg)
+### 🌆 GitHub Skyline  
+[![GitHub Skyline](https://skyline.github.com/codeted0/2024)](https://skyline.github.com/codeted0/2024)
 
 
 
